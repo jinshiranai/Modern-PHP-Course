@@ -1,0 +1,1 @@
+<p>Roll 1d6: <?php include 'other.txt'; ?></p>
